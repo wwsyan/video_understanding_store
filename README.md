@@ -18,8 +18,8 @@
 [《深度学习视频理解》张皓](https://zhuanlan.zhihu.com/p/413690166)
 
 ## 重点关注
-[（个人）张皓的知乎主页](https://www.zhihu.com/people/hao-zhang-0214)
+[张皓的知乎主页](https://www.zhihu.com/people/hao-zhang-0214)，《深度学习视频理解》的作者。
 
-[（个人）王利民的个人主页](http://wanglimin.github.io/)
+[王利民的主页](http://wanglimin.github.io/)，目前从事 mmaction2 研发工作。
 
-[（团队）OpenMMLab：最好的视觉库](https://github.com/open-mmlab)
+[OpenMMLab](https://github.com/open-mmlab)，最好的开源计算机视觉应用库。
