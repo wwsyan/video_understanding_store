@@ -6,6 +6,10 @@
 
 [（2023-05-17）视频理解基础模型及下游应用-王利民教授 | AI奇妙夜#7](https://www.bilibili.com/video/BV1rz4y1t7b7/?spm_id_from=333.999.0.0&vd_source=6ac7c4e9791ca84c0eeb7af7f2237d31)
 
+[（2022-04-15）视频理解论文串讲（上）| 跟李沐学AI](https://www.bilibili.com/video/BV1fL4y157yA/?spm_id_from=333.337.search-card.all.click&vd_source=6ac7c4e9791ca84c0eeb7af7f2237d31)
+
+[（2022-04-29）视频理解论文串讲（下）| 跟李沐学AI](https://www.bilibili.com/video/BV11Y411P7ep/?spm_id_from=333.788&vd_source=6ac7c4e9791ca84c0eeb7af7f2237d31)
+
 [（2020-07-11）万字长文漫谈视频理解](https://zhuanlan.zhihu.com/p/158702087)
 
 [（2020-12-05）工业界视频理解解决方案大汇总](https://zhuanlan.zhihu.com/p/331660909)
@@ -17,3 +21,5 @@
 [（个人）张皓的知乎主页](https://www.zhihu.com/people/hao-zhang-0214)
 
 [（个人）王利民的个人主页](http://wanglimin.github.io/)
+
+[（团队）OpenMMLab：最好的视觉库](https://github.com/open-mmlab)
