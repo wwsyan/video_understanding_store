@@ -1,5 +1,5 @@
 # video_understanding
-收集视频理解领域有用的在线资源。
+收集视频理解领域的在线资源。
 
 ## 综述
 [（2022-06-12）视频理解综述：动作识别、时序动作定位、视频Embedding](https://zhuanlan.zhihu.com/p/422235052)
