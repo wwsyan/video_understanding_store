@@ -22,6 +22,10 @@
 
 [《深度学习视频理解》张皓](https://zhuanlan.zhihu.com/p/413690166)
 
+## 主要任务的实现框架
+### 行为识别/分类
+<img src='img/行为识别基本框架.png' width='70%'>
+
 ## 重要工作
 ### 主干网络
 （2014）双流CNN：[Two-Stream Convolutional Networks for Action Recognition in Videos](https://github.com/wwsyan/video_understanding_store/blob/main/paper/Backbone/Two_Stream_ConvNet.pdf)
