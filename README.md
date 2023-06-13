@@ -20,6 +20,6 @@
 ## 重点关注
 [张皓的知乎主页](https://www.zhihu.com/people/hao-zhang-0214)，《深度学习视频理解》的作者。
 
-[王利民的主页](http://wanglimin.github.io/)，目前从事 mmaction2 研发工作。
+[王利民的主页](http://wanglimin.github.io/)，南京大学博导，产出多个重量级工作。
 
 [OpenMMLab](https://github.com/open-mmlab)，最好的开源计算机视觉应用库。
