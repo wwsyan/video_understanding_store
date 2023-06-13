@@ -23,3 +23,8 @@
 [王利民的主页](http://wanglimin.github.io/)，南京大学博导，产出多个重量级工作。
 
 [OpenMMLab](https://github.com/open-mmlab)，最好的开源计算机视觉应用库。
+
+## 开源项目精选
+最好的视频理解工具箱：[mmaction2](https://github.com/open-mmlab/mmaction2)。
+
+视频多模对话 VideoChat：[Ask-Anything](https://github.com/OpenGVLab/Ask-Anything)。
