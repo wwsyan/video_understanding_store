@@ -22,11 +22,24 @@
 
 ## 重要工作
 ### 主干网络（Backbone）
-<ul>
-  <li>（2014）双流CNN：</li>
-</ul>
+（2014）双流CNN：[Two-Stream Convolutional Networks for Action Recognition in Videos](https://github.com/wwsyan/video_understanding_store/blob/main/paper/Backbone/Two_Stream_ConvNet.pdf)
+
+（2015）C3D：[Learning Spatiotemporal Features with 3D Convolutional Networks](https://github.com/wwsyan/video_understanding_store/blob/main/paper/Backbone/3D_ConvNet.pdf)
+
+（2016）TSN：[Temporal Segment Networks: Towards Good Practices for Deep Action Recognition](https://github.com/wwsyan/video_understanding_store/blob/main/paper/Backbone/TSN.pdf)
+
+（2018）Non-local Net：[Non-local Neural Networks](https://github.com/wwsyan/video_understanding_store/blob/main/paper/Backbone/Non-local%20NN.pdf)
+
+（2021）TAM：[TAM: Temporal Adaptive Module for Video Recognitio](https://github.com/wwsyan/video_understanding_store/blob/main/paper/Backbone/TAM.pdf)
+
+（2021）TDN：[TDN: Temporal Difference Networks for Efficient Action Recognitio](https://github.com/wwsyan/video_understanding_store/blob/main/paper/Backbone/TDN.pdf)
+
+（2021）TimeSformer：[Is Space-Time Attention All You Need for Video Understanding?](https://github.com/wwsyan/video_understanding_store/blob/main/paper/Backbone/TimeSformer.pdf)
 
 ### 预训练方法（Pretraining）
+（2022）VideoMAE：[VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-f-Supervised Video Pre-Training](https://github.com/wwsyan/video_understanding_store/blob/main/paper/Pretraining/VideoMAE.pdf)
+
+（2023）VideoMAE-V2：[VideoMAE V2: Scaling Video Masked Autoencoders with Dual Masking](https://github.com/wwsyan/video_understanding_store/blob/main/paper/Pretraining/VideoMAE_V2.pdf)
 
 ## 重点关注
 [张皓的知乎主页](https://www.zhihu.com/people/hao-zhang-0214)，《深度学习视频理解》的作者。
