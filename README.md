@@ -23,7 +23,7 @@
 [《深度学习视频理解》张皓](https://zhuanlan.zhihu.com/p/413690166)
 
 ## 重要工作
-### 主干网络（Backbone）
+### 主干网络
 （2014）双流CNN：[Two-Stream Convolutional Networks for Action Recognition in Videos](https://github.com/wwsyan/video_understanding_store/blob/main/paper/Backbone/Two_Stream_ConvNet.pdf)
 
 （2015）C3D：[Learning Spatiotemporal Features with 3D Convolutional Networks](https://github.com/wwsyan/video_understanding_store/blob/main/paper/Backbone/3D_ConvNet.pdf)
@@ -38,7 +38,7 @@
 
 （2021）TimeSformer：[Is Space-Time Attention All You Need for Video Understanding?](https://github.com/wwsyan/video_understanding_store/blob/main/paper/Backbone/TimeSformer.pdf)
 
-### 预训练方法（Pretraining）
+### 预训练方法
 （2022）VideoMAE：[VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-f-Supervised Video Pre-Training](https://github.com/wwsyan/video_understanding_store/blob/main/paper/Pretraining/VideoMAE.pdf)
 
 （2023）VideoMAE-V2：[VideoMAE V2: Scaling Video Masked Autoencoders with Dual Masking](https://github.com/wwsyan/video_understanding_store/blob/main/paper/Pretraining/VideoMAE_V2.pdf)
