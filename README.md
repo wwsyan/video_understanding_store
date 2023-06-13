@@ -20,6 +20,13 @@
 
 [《深度学习视频理解》张皓](https://zhuanlan.zhihu.com/p/413690166)
 
+## 重要工作
+### 主干网络（Backbone）
+<ul>
+  <li>（2014）双流CNN：</li>
+</ul>
+
+### 预训练方法（Pretraining）
 
 ## 重点关注
 [张皓的知乎主页](https://www.zhihu.com/people/hao-zhang-0214)，《深度学习视频理解》的作者。
