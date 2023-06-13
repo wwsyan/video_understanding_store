@@ -1,4 +1,4 @@
-# 视频理解资源小站
+# 😛视频理解🥵资源小站
 收集视频理解领域的在线资源。
 
 ## 综述
@@ -15,8 +15,11 @@
 
 （2020-12-05）[工业界视频理解解决方案大汇总](https://zhuanlan.zhihu.com/p/331660909)
 
-## 书籍
+## 入门
+[【OpenMMLab 公开课】视频理解与 MMAction2](https://www.bilibili.com/video/BV1h34y1D7QH?p=1&vd_source=6ac7c4e9791ca84c0eeb7af7f2237d31)
+
 [《深度学习视频理解》张皓](https://zhuanlan.zhihu.com/p/413690166)
+
 
 ## 重点关注
 [张皓的知乎主页](https://www.zhihu.com/people/hao-zhang-0214)，《深度学习视频理解》的作者。
