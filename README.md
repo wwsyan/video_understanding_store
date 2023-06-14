@@ -54,7 +54,7 @@
 
 [OpenMMLab](https://github.com/open-mmlab)，最好的开源计算机视觉应用库。
 
-## 开源项目精选
-最好的视频理解工具箱：[mmaction2](https://github.com/open-mmlab/mmaction2)，覆盖动作检测、时序检测和时空检测三项任务。
+## 开源项目
+😍💯最好的视频理解工具箱：[mmaction2](https://github.com/open-mmlab/mmaction2)，覆盖动作识别、时序检测和时空检测三项任务。
 
 视频多模对话 VideoChat：[Ask-Anything](https://github.com/OpenGVLab/Ask-Anything)。
