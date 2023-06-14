@@ -48,11 +48,11 @@
 （2023）VideoMAE-V2：[VideoMAE V2: Scaling Video Masked Autoencoders with Dual Masking](https://github.com/wwsyan/video_understanding_store/blob/main/paper/Pretraining/VideoMAE_V2.pdf)
 
 ## 重点关注
+[OpenMMLab](https://github.com/open-mmlab)，最好的开源计算机视觉应用库。
+
 [张皓的知乎主页](https://www.zhihu.com/people/hao-zhang-0214)，《深度学习视频理解》的作者。
 
 [王利民的主页](http://wanglimin.github.io/)，南京大学博导，产出多个重量级工作。
-
-[OpenMMLab](https://github.com/open-mmlab)，最好的开源计算机视觉应用库。
 
 ## 开源项目
 😍💯最好的视频理解工具箱：[mmaction2](https://github.com/open-mmlab/mmaction2)，覆盖动作识别、时序检测和时空检测三项任务。
