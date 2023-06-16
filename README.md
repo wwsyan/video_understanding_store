@@ -47,7 +47,7 @@
 
 （2023）VideoMAE-V2：[VideoMAE V2: Scaling Video Masked Autoencoders with Dual Masking](https://github.com/wwsyan/video_understanding_store/blob/main/paper/Pretraining/VideoMAE_V2.pdf)
 
-上面提到的工作和分类方式均出自于[视频理解基础模型及下游应用-王利民教授](https://aicarrier.feishu.cn/file/AVZQbWGi7ooyiuxHbLUcPOKknad)，含有一定的主观因素。
+上面提到的backbone-pretrain分类方式和一些工作均整理自：[视频理解基础模型及下游应用-王利民教授](https://aicarrier.feishu.cn/file/AVZQbWGi7ooyiuxHbLUcPOKknad)，含有一定的主观因素。
 
 更全面的工作可以直接查看[MMAction2 - Model Zoo](https://github.com/open-mmlab/mmaction2#-model-zoo-)。
 
