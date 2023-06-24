@@ -61,3 +61,31 @@
 😍💯最好的视频理解工具箱：[mmaction2](https://github.com/open-mmlab/mmaction2)，覆盖动作识别、时序检测和时空检测三项任务。
 
 视频多模对话 VideoChat：[Ask-Anything](https://github.com/OpenGVLab/Ask-Anything)。
+
+## ❤🧡💛模型实现/测试💚💙💜
+### 2D卷积
+主要思路是，使用传统的卷积神经网络进行特征提取，再将所有的帧特征进行平均回汇合。
+<ul>
+  <li>NetVLAD，NeXtVLAD，NetFV</li>
+  <li>LSTM/GRU，Fast Forward，ConvLSTM</li>
+  <li>ECO</li>
+  <li>双流法，双流法+3D卷积融合，双流法+乘性信息传递</li>
+  <li>TSN</li>
+  <li>ActionVLAD</li>
+  <li>StNet</li>
+  <li>TRN</li>
+  <li>TDD</li>
+</ul>
+
+### 3D卷积
+<ul>
+  <li>C3D，Res3D/3D ResNet，LTC，I3D</li>
+  <li>FSTCN，P3D，R(2+1)D，S3D</li>
+  <li>TSM，3D卷积+RNN，ARTNet</li>
+  <li>Non-Local，SlowFast</li>
+  <li>多网格训练，X3D</li>
+</ul>
+
+
+
+
