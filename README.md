@@ -60,6 +60,10 @@
 ## 开源项目
 😍💯最好的视频理解工具箱：[mmaction2](https://github.com/open-mmlab/mmaction2)，覆盖动作识别、时序检测和时空检测三项任务。
 
+[Facebook FAIR PySlowfast](https://github.com/facebookresearch/SlowFast)
+
+[PytorchVideo](https://github.com/facebookresearch/pytorchvideo/)
+
 视频多模对话 VideoChat：[Ask-Anything](https://github.com/OpenGVLab/Ask-Anything)。
 
 ## ❤🧡💛模型实现/测试💚💙💜
