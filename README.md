@@ -90,6 +90,12 @@
   <li>多网格训练，X3D</li>
 </ul>
 
+## 训练平台
+[算粒方块](https://featurize.cn/vm/available)
+
+[趋动云](https://platform.virtaicloud.com/gemini_web/workspace/space/zqi3rfg7sfel/project/list)
+
+[北鲲云](https://www.bkunyun.com/v2/console/cloude-imagesManage)
 
 
 
