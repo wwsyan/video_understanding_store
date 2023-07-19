@@ -60,9 +60,11 @@
 ## 开源项目
 [mmaction2](https://github.com/open-mmlab/mmaction2)，覆盖动作识别、时序检测和时空检测三项任务，集成算法众多，适合做大规模验证。但目前仅支持TSN和SlowFast部署。
 
+[PaddleVideo](https://github.com/PaddlePaddle/PaddleVideo)，主打轻量级应用的一站式服务，包含特别改进的TSM 和 单阶段时空动作检测方法YOWO。
+
 [Facebook FAIR PySlowfast](https://github.com/facebookresearch/SlowFast)
 
-[PytorchVideo](https://github.com/facebookresearch/pytorchvideo/)，主打轻量级应用的一站式服务，包含特别改进的TSM 和 单阶段时空动作检测方法YOWO。
+[PytorchVideo](https://github.com/facebookresearch/pytorchvideo/)
 
 视频多模对话 VideoChat：[Ask-Anything](https://github.com/OpenGVLab/Ask-Anything)。
 
