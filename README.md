@@ -58,13 +58,11 @@
 [王利民的主页](http://wanglimin.github.io/)，南京大学博导，产出多个重量级工作。
 
 ## 开源项目
-[mmaction2](https://github.com/open-mmlab/mmaction2)，覆盖动作识别、时序检测和时空检测三项任务。
+[mmaction2](https://github.com/open-mmlab/mmaction2)，覆盖动作识别、时序检测和时空检测三项任务，集成算法众多，适合做大规模验证。但目前仅支持TSN和SlowFast部署。
 
 [Facebook FAIR PySlowfast](https://github.com/facebookresearch/SlowFast)
 
-[PytorchVideo](https://github.com/facebookresearch/pytorchvideo/)，主打轻量级，包含TSM 和 一个单阶段时空动作检测方法YOWO。
-
-[PaddleVideo](https://github.com/PaddlePaddle/PaddleVideo)，
+[PytorchVideo](https://github.com/facebookresearch/pytorchvideo/)，主打轻量级应用的一站式服务，包含特别改进的TSM 和 单阶段时空动作检测方法YOWO。
 
 视频多模对话 VideoChat：[Ask-Anything](https://github.com/OpenGVLab/Ask-Anything)。
 
