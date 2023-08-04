@@ -99,7 +99,7 @@
 [算粒方块](https://featurize.cn/vm/available)，
 [趋动云](https://platform.virtaicloud.com/gemini_web/workspace/space/zqi3rfg7sfel/project/list)，
 [北鲲云](https://www.bkunyun.com/v2/console/cloude-imagesManage)，
-[恒源云](https://www.compshare.cn/?utm_term=8ae684a84345b808&utm_campaign=L21&utm_source=bdsem&utm_medium=search&ytag=GXGPU_8ae684a84345b808_L21_bdsem_search)，
+[恒源云](https://gpushare.com/center/console)，
 
 
 
