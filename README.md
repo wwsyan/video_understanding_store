@@ -93,16 +93,11 @@
 </ul>
 
 ## 训练平台
-[AutoDL](https://www.autodl.com/console/instance/list)
-
-[Openbayes](https://openbayes.com/console/SparkleTale/containers)
-
-[智星云](http://gpu.ai-galaxy.cn/login?redirect=%2Fconsole%2Findex)
-
-[算粒方块](https://featurize.cn/vm/available)
-
-[趋动云](https://platform.virtaicloud.com/gemini_web/workspace/space/zqi3rfg7sfel/project/list)
-
+[AutoDL](https://www.autodl.com/console/instance/list)，
+[Openbayes](https://openbayes.com/console/SparkleTale/containers)，
+[智星云](http://gpu.ai-galaxy.cn/login?redirect=%2Fconsole%2Findex)，
+[算粒方块](https://featurize.cn/vm/available)，
+[趋动云](https://platform.virtaicloud.com/gemini_web/workspace/space/zqi3rfg7sfel/project/list)，
 [北鲲云](https://www.bkunyun.com/v2/console/cloude-imagesManage)
 
 
