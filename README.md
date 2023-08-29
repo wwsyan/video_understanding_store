@@ -68,9 +68,9 @@
 
 视频对话 VideoChat：[Ask-Anything](https://github.com/OpenGVLab/Ask-Anything)
 
-通用视频基座模型 (InternVideo)[https://github.com/OpenGVLab/InternVideo]
+通用视频基座模型 [InternVideo](https://github.com/OpenGVLab/InternVideo)
 
-
+视频流中神经网络关注区域可视化工具 [CAM](http://cnnlocalization.csail.mit.edu/)
 
 ## ❤🧡💛模型实现/测试💚💙💜
 ### 2D卷积
