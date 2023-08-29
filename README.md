@@ -104,7 +104,7 @@
 ## 可用的数据集
 [Moments in Time](https://openxlab.org.cn/datasets/OpenDataLab/Moments_in_Time)，标签：telephoing，smoking
 
-[CDAD: A Common Daily Action Dataset with Collected Hard Negative Samples](https://keli-sketchx.github.io/files/CVPRW2022.pdf)
+[CDAD: A Common Daily Action Dataset with Collected Hard Negative Samples](https://keli-sketchx.github.io/files/CVPRW2022.pdf)，每一个正样本都配有负样本，标签：Use a phone，Call/Answer a phone，Smoke
 
 [Charades](https://prior.allenai.org/projects/charades)，标签：Holding a phone/camera，Playing with a phone/camera，Putting a phone/camera somewhere，Taking a phone/camera from somewhere，Talking on a phone/camera
 
