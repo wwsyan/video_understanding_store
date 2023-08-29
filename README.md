@@ -101,7 +101,7 @@
 [北鲲云](https://www.bkunyun.com/v2/console/cloude-imagesManage)，
 [恒源云](https://gpushare.com/center/console)，
 
-## 可用的数据集
+## 相关数据集
 [Moments in Time](https://openxlab.org.cn/datasets/OpenDataLab/Moments_in_Time)，标签：telephoing，smoking
 
 [CDAD: A Common Daily Action Dataset with Collected Hard Negative Samples](https://keli-sketchx.github.io/files/CVPRW2022.pdf)，每一个正样本都配有负样本，标签：Use a phone，Call/Answer a phone，Smoke
