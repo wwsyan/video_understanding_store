@@ -66,7 +66,7 @@
 
 [PytorchVideo](https://github.com/facebookresearch/pytorchvideo/)
 
-视频对话 VideoChat：[Ask-Anything](https://github.com/OpenGVLab/Ask-Anything)
+视频对话 VideoChat [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything)
 
 通用视频基座模型 [InternVideo](https://github.com/OpenGVLab/InternVideo)
 
