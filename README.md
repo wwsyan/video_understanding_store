@@ -66,6 +66,8 @@
 
 [PytorchVideo](https://github.com/facebookresearch/pytorchvideo/)
 
+单阶段时空动作检测算法：[YOWO](https://github.com/wei-tim/YOWO) 和改进版本 [YOWO-Plus](https://github.com/yjh0410/PyTorch_YOWO)
+
 视频对话 VideoChat [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything)
 
 通用视频基座模型 [InternVideo](https://github.com/OpenGVLab/InternVideo)
